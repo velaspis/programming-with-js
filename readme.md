@@ -1,4 +1,5 @@
 Programming with JS
+
 This repository contains the final project that I completed as a part of my Meta Professional Front End Dev Certificate program in the programming JS section. In this project, I have written examples of working JavaScript code, which can be useful for learning JS programming concepts.
 
 Getting Started
